@@ -1,0 +1,21 @@
+.container{
+	   
+	    width: 500px;
+	    height: 300px;
+	    
+	    position: fixed;
+	    top: 50%;
+	    left: 50%;
+    margin-top: -160px;
+	    margin-left: -260px;
+	    text-align: center;
+	    padding:40px;
+	    display: table;
+	}
+.box{
+	    
+	    display: table-cell;
+	    text-align: center;
+	    vertical-align: middle;
+	    
+	}
